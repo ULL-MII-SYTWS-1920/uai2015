@@ -1,11 +1,3 @@
-.DS_Store
-.git
-.meta
-StrangeLoop2013-StephanHerhut-ConcurrencyandParallelComputinginJavaScript.pdf
-ejemplo.js
-promise-ejemplo
-race-condition
-simple-web-worker
 {
   "projects": {
     "promise-ejemplo": "git@gist.github.com:f5c52c8b72b4722e374a8af10e9d2b5d.git",
