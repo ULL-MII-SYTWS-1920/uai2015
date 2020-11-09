@@ -1,6 +1,6 @@
 {
   "projects": {
-    "promise-ejemplo": "git@gist.github.com:f5c52c8b72b4722e374a8af10e9d2b5d.git",
+    "promise-ejemplo": "git@github.com:ULL-MII-SYTWS-1920/promise-example.git", 
     "simple-web-worker": "git@github.com:SYTW/simple-web-worker.git",
     "race-condition": "git@github.com:ULL-MII-SYTWS-1920/js-race.git",
     "fibonacci-worker": "git@github.com:ULL-MII-SYTWS-1920/fibonacci-worker.git"
